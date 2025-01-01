@@ -4,7 +4,12 @@
 - Definition: The Python interpreter is the program that reads and executes Python code. It can either run code interactively or execute Python scripts.
 - Example: Running python script.py or using python in the terminal to interactively execute commands.
 
-<hr>
+
+
+## Python extension: (.py)
+    
+    A file extension is a small ending part of a file's name that tells the computer what kind of the file it is 
+
 
 **pip (Python Package Installer)**
 - Definition: pip is the package manager for Python. It allows you to install, update, and remove Python packages from the Python Package Index (PyPI).
